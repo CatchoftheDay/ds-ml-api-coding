@@ -1,0 +1,14 @@
+[
+ {
+   "category": "a",
+   "pred": 0.18
+ },
+ {
+   "category": "b",
+   "pred": 0.72
+ },
+ {
+   "category": "c",
+   "pred": 0.36
+ }
+]
